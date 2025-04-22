@@ -1,1 +1,1 @@
-This repository shows some examples of SQL code.
+This repository shows some SQL code for exercise purposes.
